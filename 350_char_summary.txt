@@ -1,0 +1,1 @@
+Advanced multivariate forecasting using LSTM and Transformer attention. Includes full preprocessing, positional encodings, encoder–decoder Transformer, hyperparameter search, multi-horizon evaluation (RMSE/MAE), visualizations, and attention-weight analysis for feature importance.
