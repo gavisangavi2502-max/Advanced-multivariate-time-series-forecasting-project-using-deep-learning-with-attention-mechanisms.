@@ -1,0 +1,2 @@
+# Advanced-multivariate-time-series-forecasting-project-using-deep-learning-with-attention-mechanisms.
+Advanced multivariate time-series forecasting project using deep learning with attention mechanisms. Includes data preprocessing, baseline LSTM model, Transformer-based attention model, hyperparameter tuning, comparative evaluation using RMSE/MAE, and attention-weight interpretation for feature importance.
